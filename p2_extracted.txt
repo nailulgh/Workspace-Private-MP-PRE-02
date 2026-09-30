@@ -1,0 +1,84 @@
+PERTEMUAN 2: LINGKUNGAN PROYEK DAN PERAN MANAJER PROYEK
+A. TUJUAN PEMBELAJARAN
+Setelah menyelesaikan LKM ini, mahasiswa diharapkan mampu:
+Menganalisis pengaruh Enterprise Environmental Factors (EEFs) dan Organizational Process Assets (OPAs) terhadap pelaksanaan suatu proyek dengan menggunakan contoh konkret.
+Menjelaskan berbagai struktur organisasi proyek beserta kelebihan dan kekurangan masing-masing.
+Menjelaskan peran manajer proyek serta kompetensi yang wajib dimiliki oleh seorang manajer proyek.
+Mengidentifikasi EEFs dan OPAs yang mempengaruhi proyek kelompok yang telah ditentukan.
+
+B. MATERI KONSEPTUAL
+1. Enterprise Environmental Factors (EEFs)
+Enterprise Environmental Factors adalah kondisi, keadaan, atau pengaruh dari lingkungan internal maupun eksternal organisasi yang dapat mempengaruhi proyek, namun berada di luar kendali tim proyek. EEFs dapat bersifat internal, seperti budaya organisasi, struktur organisasi, sumber daya yang tersedia, dan kapabilitas teknologi informasi. EEFs juga dapat bersifat eksternal, seperti kondisi pasar, regulasi pemerintah, kondisi ekonomi, dan tekanan sosial-budaya. Karena berada di luar kendali tim proyek, EEFs harus diidentifikasi dan diantisipasi sejak awal, bukan diubah atau dihilangkan. EEFs dapat mempengaruhi seluruh aspek proyek, mulai dari pemilihan metodologi, proses pengadaan, hingga strategi komunikasi dengan pemangku kepentingan.
+Referensi: PMI18 (Bab 2.2, hal. 38-39)
+2. Organizational Process Assets (OPAs)
+Organizational Process Assets adalah aset-aset organisasi yang dapat digunakan oleh tim proyek untuk mendukung keberhasilan proyek. Berbeda dengan EEFs, OPAs bersifat internal dan dapat dimanfaatkan serta bahkan diperbarui selama proyek berlangsung. OPAs terdiri dari dua kategori utama. Pertama, proses, kebijakan, dan prosedur, seperti kebijakan pengadaan, prosedur pengendalian perubahan, standar kualitas, dan template dokumen. Kedua, repositori pengetahuan organisasi, seperti database pelajaran yang dipetik (lessons learned), arsip proyek sebelumnya, basis data pengukuran kinerja, dan daftar risiko historis. OPAs yang dikelola dengan baik akan meningkatkan efisiensi dan efektivitas tim proyek karena tim tidak perlu "menemukan kembali roda" untuk setiap proyek baru.
+Referensi: PMI18 (Bab 2.3, hal. 39-41)
+3. Struktur Organisasi Proyek
+Struktur organisasi menentukan bagaimana wewenang, tanggung jawab, dan komunikasi berjalan dalam proyek. Terdapat tiga jenis struktur organisasi utama. Struktur fungsional adalah struktur tradisional di mana karyawan dikelompokkan berdasarkan fungsi atau keahlian, seperti pemasaran, keuangan, dan produksi. Manajer proyek dalam struktur ini memiliki wewenang yang sangat terbatas dan berperan lebih sebagai koordinator. Struktur proyek murni adalah kebalikannya, di mana tim proyek bekerja secara independen dari struktur fungsional dan manajer proyek memiliki wewenang penuh atas proyek. Struktur matriks merupakan gabungan dari keduanya, dengan variasi matriks lemah (wewenang lebih besar pada manajer fungsional), matriks seimbang (wewenang berbagi), dan matriks kuat (wewenang lebih besar pada manajer proyek). Pemilihan struktur organisasi yang tepat sangat mempengaruhi tingkat keberhasilan proyek.
+Referensi: PMI18 (Bab 2.4.4, hal. 45-50); KER17 (Bab 4, hal. 85-110)
+4. Sphere of Influence Manajer Proyek
+Sphere of influence atau lingkaran pengaruh menggambarkan area-area di mana manajer proyek dapat memberikan dampak positif. Lingkaran pengaruh ini meliputi beberapa tingkatan. Pada tingkat proyek, manajer proyek mempengaruhi tim, jadwal, biaya, dan kualitas. Pada tingkat organisasi, manajer proyek berinteraksi dengan manajemen senior, sponsor, dan unit bisnis lain. Pada tingkat industri, manajer proyek berkontribusi pada praktik terbaik dan standar profesi. Pada tingkat disiplin profesional, manajer proyek terus mengembangkan pengetahuan dan keterampilan melalui sertifikasi dan pendidikan berkelanjutan. Semakin luas sphere of influence seorang manajer proyek, semakin besar peluang keberhasilan proyek karena dukungan yang diperoleh juga semakin luas.
+Referensi: PMI18 (Bab 3.3, hal. 52-56)
+5. Kompetensi Manajer Proyek
+Seorang manajer proyek yang efektif harus memiliki tiga kelompok kompetensi utama. Kompetensi teknis adalah kemampuan untuk menerapkan pengetahuan, alat, dan teknik manajemen proyek, seperti menyusun WBS, membuat jadwal, mengelola anggaran, dan mengidentifikasi risiko. Kompetensi strategis dan bisnis adalah kemampuan untuk memahami konteks bisnis organisasi, termasuk strategi perusahaan, posisi kompetitif, dan dinamika pasar, sehingga proyek selaras dengan tujuan strategis organisasi. Kompetensi kepemimpinan adalah kemampuan untuk memimpin tim, memotivasi anggota, menyelesaikan konflik, berkomunikasi secara efektif, dan mengambil keputusan di bawah tekanan. Kombinasi ketiga kompetensi inilah yang membedakan manajer proyek biasa dari manajer proyek yang luar biasa.
+Referensi: PMI18 (Bab 3.4, hal. 56-64)
+6. Perbandingan Kepemimpinan dan Manajemen
+Kepemimpinan dan manajemen adalah dua konsep yang saling melengkapi namun berbeda. Manajemen lebih berorientasi pada proses, kontrol, dan penyelesaian tugas secara efisien. Manajer fokus pada perencanaan, penganggaran, pengorganisasian, dan pemecahan masalah. Sementara itu, kepemimpinan lebih berorientasi pada visi, inspirasi, dan perubahan. Pemimpin fokus pada penetapan arah, menyelaraskan orang, dan memotivasi tim untuk mencapai tujuan bersama. Manajer proyek yang hebat adalah kombinasi dari manajer dan pemimpin yang baik. Ia mampu mengelola proses dengan efisien sekaligus menginspirasi tim untuk memberikan yang terbaik. Dalam praktiknya, manajer proyek perlu menyeimbangkan peran manajerial dan kepemimpinan sesuai dengan situasi dan kebutuhan proyek.
+Referensi: PMI18 (Bab 3.4.5, hal. 64-65)
+
+C. KEGIATAN DAN TUGAS MAHASISWA
+Kegiatan Pra-Pembelajaran (Sebelum Pertemuan)
+Baca dan pahami materi konseptual di atas serta referensi yang diberikan.
+Pelajari studi kasus struktur organisasi yang akan diberikan oleh dosen di kelas.
+Amati struktur organisasi di tempat Anda bekerja, berorganisasi, atau di kampus.
+Tugas Tertulis Individu
+Jawablah pertanyaan-pertanyaan berikut secara lengkap dengan mengacu pada referensi yang diberikan dan hasil pengamatan Anda!
+Apa yang dimaksud dengan Enterprise Environmental Factors (EEFs) dan Organizational Process Assets (OPAs)? Jelaskan perbedaan mendasar antara keduanya!
+Berikan masing-masing tiga contoh EEFs internal dan tiga contoh EEFs eksternal yang dapat mempengaruhi suatu proyek!
+Berikan masing-masing tiga contoh OPAs yang termasuk dalam kategori proses/kebijakan dan tiga contoh OPAs yang termasuk dalam kategori repositori pengetahuan!
+Gambarkan dan jelaskan struktur organisasi tempat Anda bekerja atau berorganisasi saat ini! Termasuk ke dalam jenis struktur apa organisasi tersebut (fungsional, matriks, atau proyek murni)? Berikan alasan!
+Sebutkan tiga kompetensi utama yang harus dimiliki oleh seorang manajer proyek menurut PMBOK Guide!
+Untuk setiap kompetensi tersebut, berikan contoh penerapannya dalam situasi proyek nyata!
+Apa perbedaan antara kepemimpinan (leadership) dan manajemen (management)? Mengapa manajer proyek perlu memiliki keduanya?
+Jelaskan apa yang dimaksud dengan sphere of influence manajer proyek dan sebutkan tingkatan-tingkatannya!
+Kegiatan Kelompok
+Diskusikan analisis struktur organisasi pada studi kasus yang diberikan oleh dosen!
+Identifikasi EEFs dan OPAs yang mempengaruhi proyek kelompok yang telah dipilih pada pertemuan pertama!
+Buatlah daftar EEFs internal dan eksternal serta OPAs yang relevan dengan proyek kelompok Anda!
+Diskusikan bagaimana EEFs dan OPAs tersebut akan mempengaruhi perencanaan dan pelaksanaan proyek kelompok Anda!
+
+D. REFLEKSI MANDIRI
+Jawablah pertanyaan-pertanyaan refleksi berikut sebagai bentuk introspeksi diri terhadap pemahaman Anda pada pertemuan kedua ini!
+Menurut pemahaman Anda, apa tantangan terbesar yang dihadapi oleh seorang manajer proyek dalam menjalankan perannya?
+Dari tiga kompetensi utama manajer proyek (teknis, strategis-bisnis, kepemimpinan), kompetensi mana yang paling perlu Anda kembangkan saat ini, dan mengapa Anda memilih kompetensi tersebut?
+Bagaimana struktur organisasi tempat Anda beraktivitas mempengaruhi cara kerja dan pengambilan keputusan dalam tim atau organisasi tersebut?
+Jika Anda diberi kesempatan menjadi manajer proyek untuk proyek kelompok Anda, apa langkah pertama yang akan Anda lakukan untuk memastikan keberhasilan proyek?
+
+E. CATATAN UNTUK DOSEN
+Alokasi Waktu:
+Kegiatan pra-pembelajaran: 60 menit (membaca materi dan referensi)
+Kegiatan tatap muka: 100 menit
+Tugas tertulis individu: 60 menit (dikerjakan di luar jam tatap muka)
+Refleksi mandiri: 15 menit
+Metode Pembelajaran yang Direkomendasikan:
+Ceramah interaktif (30 menit)
+Studi kasus struktur organisasi (25 menit)
+Diskusi kelompok kecil (20 menit)
+Presentasi hasil diskusi (15 menit)
+Tanya jawab dan klarifikasi (10 menit)
+Studi Kasus yang Direkomendasikan:
+Dosen dapat memberikan studi kasus berupa deskripsi organisasi dengan struktur tertentu (misalnya perusahaan teknologi dengan struktur matriks, atau pemerintahan dengan struktur fungsional) dan meminta mahasiswa menganalisis pengaruhnya terhadap proyek.
+Penilaian:
+Tugas tertulis individu: dinilai dari ketepatan jawaban dan kedalaman analisis
+Partisipasi diskusi kelompok: dinilai dari keaktifan dan kontribusi
+Refleksi mandiri: dinilai dari kualitas introspeksi dan keterkaitan dengan materi
+
+F. DAFTAR PUSTAKA KHUSUS PERTEMUAN 2
+
+[TABLE]
+Kode | Referensi
+PMI18 | Project Management Institute. (2018). A Guide to the Project Management Body of Knowledge (PMBOK Guide) – Sixth Edition. Pennsylvania: Project Management Institute. Bab 2, hal. 37-50; Bab 3, hal. 51-68.
+KER17 | Kerzner, H. (2017). Project Management: A Systems Approach to Planning, Scheduling, and Controlling (12th ed.). Hoboken, NJ: John Wiley & Sons. Bab 4, hal. 85-130.
+LAR21 | Larson, E. W., & Gray, C. F. (2021). Project Management: The Managerial Process (8th ed.). New York: McGraw-Hill Education. Bab 3, hal. 60-90.
+
+
