@@ -1,1 +1,0 @@
-"Tolong buatkan LKM 4. Ikuti seluruh aturan dan alur kerja di AGENTS.md, ambil soal pertemuan 4 dari file master di MP_sumber_data/, dan tiru struktur script dari scripts/lkm3/."

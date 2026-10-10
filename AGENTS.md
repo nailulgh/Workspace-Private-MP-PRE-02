@@ -60,14 +60,20 @@ Seluruh Lembar Kerja Mahasiswa (LKM) individu maupun tugas kelompok diintegrasik
 
 | Pertemuan | Topik LKM | Status Dokumen | Lokasi File Output (.docx) | Lokasi Script Generator |
 |---|---|---|---|---|
-| **Pertemuan 1** | Pengantar Manajemen Proyek | ✅ **SELESAI** | `MP_Tugas_Individu/LKM1_Manajemen_Proyek.docx` | Manual / Archive |
+| **Pertemuan 1** | Pengantar Manajemen Proyek | ✅ **SELESAI** | `MP_Tugas_Individu/LKM1_Manajemen_Proyek.docx` | `scripts/lkm1/generate_lkm1_final.py` |
 | **Pertemuan 2** | Lingkungan Proyek & Peran PM | ✅ **SELESAI** | `MP_Tugas_Individu/LKM2_Manajemen_Proyek.docx` | Manual / Archive |
 | **Pertemuan 3** | Manajemen Integrasi Proyek | ✅ **SELESAI** | `MP_Tugas_Individu/LKM3_Manajemen_Proyek.docx` | `scripts/lkm3/generate_lkm3_final.py` |
 | **Pertemuan 4** | Manajemen Ruang Lingkup Proyek | ✅ **SELESAI** | `MP_Tugas_Individu/LKM4_Manajemen_Proyek.docx` | `scripts/lkm4/generate_lkm4_final.py` |
-| **Pertemuan 5** | Manajemen Jadwal Proyek (Bagian I) | ⏳ **BERIKUTNYA** | `MP_Tugas_Individu/LKM5_Manajemen_Proyek.docx` | `scripts/lkm5/` *(Buat saat tiba tugas)* |
-| **Pertemuan 6** | Manajemen Jadwal (II) & Biaya | ⏳ Antrean | `MP_Tugas_Individu/LKM6_Manajemen_Proyek.docx` | `scripts/lkm6/` |
-| **Pertemuan 7** | Analisis Data & Pembahasan Riset | ⏳ Antrean | `MP_Tugas_Individu/LKM7_Manajemen_Proyek.docx` | `scripts/lkm7/` |
-| **Pertemuan 8** | Finalisasi Paper IMRAD & Presentasi | ⏳ Antrean | `MP_Tugas_Individu/LKM8_Manajemen_Proyek.docx` | `scripts/lkm8/` |
+| **Pertemuan 5** | Manajemen Jadwal Proyek (Bagian I) | ✅ **SELESAI** | `MP_Tugas_Individu/LKM5_Manajemen_Proyek.docx` | `scripts/lkm5/generate_lkm5_final.py` |
+| **Pertemuan 6** | Manajemen Jadwal (II) & Software | ✅ **SELESAI** | `MP_Tugas_Individu/LKM6_Manajemen_Proyek.docx` | `scripts/lkm6/generate_lkm6_final.py` |
+| **Pertemuan 7** | Manajemen Biaya Proyek & Analisis | ✅ **SELESAI** | `MP_Tugas_Individu/LKM7_Manajemen_Proyek.docx` | `scripts/lkm7/generate_lkm7_final.py` |
+| **Pertemuan 8** | Manajemen Kualitas Proyek | ✅ **SELESAI** | `MP_Tugas_Individu/LKM8_Manajemen_Proyek.docx` | `scripts/lkm8/generate_lkm8_final.py` |
+| **Pertemuan 9** | Manajemen Sumber Daya Proyek | ✅ **SELESAI** | `MP_Tugas_Individu/LKM9_Manajemen_Proyek.docx` | `scripts/lkm9/generate_lkm9_final.py` |
+| **Pertemuan 10** | Manajemen Komunikasi Proyek | ✅ **SELESAI** | `MP_Tugas_Individu/LKM10_Manajemen_Proyek.docx` | `scripts/lkm10/generate_lkm10_final.py` |
+| **Pertemuan 11** | Manajemen Risiko Proyek (Bagian I) | ✅ **SELESAI** | `MP_Tugas_Individu/LKM11_Manajemen_Proyek.docx` | `scripts/lkm11/generate_lkm11_final.py` |
+| **Pertemuan 12** | Manajemen Risiko Proyek (Bagian II) | ✅ **SELESAI** | `MP_Tugas_Individu/LKM12_Manajemen_Proyek.docx` | `scripts/lkm12/generate_lkm12_final.py` |
+| **Pertemuan 13** | Manajemen Pengadaan & Pemangku Kepentingan | ✅ **SELESAI** | `MP_Tugas_Individu/LKM13_Manajemen_Proyek.docx` | `scripts/lkm13/generate_lkm13_final.py` |
+| **Pertemuan 14** | Pendekatan Agile/Hybrid & Review Perkuliahan | ✅ **SELESAI** | `MP_Tugas_Individu/LKM14_Manajemen_Proyek.docx` | `scripts/lkm14/generate_lkm14_final.py` |
 
 ---
 
@@ -86,7 +92,17 @@ c:/Users/nailul/Documents/Files_Kuliah_Local/Workspace-MP-PRE-02/
 │   ├── LKM1_Manajemen_Proyek.docx
 │   ├── LKM2_Manajemen_Proyek.docx
 │   ├── LKM3_Manajemen_Proyek.docx
-│   └── LKM4_Manajemen_Proyek.docx
+│   ├── LKM4_Manajemen_Proyek.docx
+│   ├── LKM5_Manajemen_Proyek.docx
+│   ├── LKM6_Manajemen_Proyek.docx
+│   ├── LKM7_Manajemen_Proyek.docx
+│   ├── LKM8_Manajemen_Proyek.docx
+│   ├── LKM9_Manajemen_Proyek.docx
+│   ├── LKM10_Manajemen_Proyek.docx
+│   ├── LKM11_Manajemen_Proyek.docx
+│   ├── LKM12_Manajemen_Proyek.docx
+│   ├── LKM13_Manajemen_Proyek.docx
+│   └── LKM14_Manajemen_Proyek.docx
 │
 ├── MP_sumber_data/                         # DIREKTORI SILABUS & SOAL SUMBER
 │   └── 2026 Lembar Kerja Mahasiswa_Manajemen_Proyek_Revisi_v3.docx
@@ -97,6 +113,69 @@ c:/Users/nailul/Documents/Files_Kuliah_Local/Workspace-MP-PRE-02/
 │
 └── scripts/                                # DIREKTORI SELURUH SKRIP EKSEKUSI & GENERATOR
     ├── run_generator.py                    # Master Runner (bisa generate LKM tertentu atau all)
+    ├── lkm14/                              # Modul Generator LKM 14 (Pendekatan Agile/Hybrid & Review)
+    │   ├── generate_lkm14_final.py         # Script utama LKM 14 (Tugas Individu murni)
+    │   ├── lkm14_builder_section_a.py      # Builder Tugas Tertulis (9 Soal Agile/Scrum/Hybrid & 10 Area)
+    │   ├── lkm14_builder_section_b.py      # Builder Matriks Komparatif Prediktif vs Agile & Hybrid PRE-02
+    │   ├── lkm14_builder_section_c.py      # Builder Refleksi Mandiri Akhir Semester (5 Soal)
+    │   └── lkm14_builder_section_d.py      # Builder Daftar Pustaka APA 7th
+    ├── lkm13/                              # Modul Generator LKM 13 (Manajemen Pengadaan & Pemangku Kepentingan)
+    │   ├── generate_lkm13_final.py         # Script utama LKM 13 (Tugas Individu murni)
+    │   ├── lkm13_builder_section_a.py      # Builder Tugas Tertulis (9 Soal Pengadaan & Stakeholder)
+    │   ├── lkm13_builder_section_b.py      # Builder Studi Kasus Make-or-Buy GPU & Stakeholder Grid PRE-02
+    │   ├── lkm13_builder_section_c.py      # Builder Refleksi Mandiri (5 Soal)
+    │   └── lkm13_builder_section_d.py      # Builder Daftar Pustaka APA 7th
+    ├── lkm12/                              # Modul Generator LKM 12 (Manajemen Risiko Proyek Bagian II)
+    │   ├── generate_lkm12_final.py         # Script utama LKM 12 (Tugas Individu murni)
+    │   ├── lkm12_builder_section_a.py      # Builder Tugas Tertulis (9 Soal Teori Analisis Kuantitatif & Respons)
+    │   ├── lkm12_builder_section_b.py      # Builder Tugas Latihan EMV & Decision Tree (Vendor X vs Y)
+    │   ├── lkm12_builder_section_c.py      # Builder Refleksi Mandiri (5 Soal)
+    │   └── lkm12_builder_section_d.py      # Builder Daftar Pustaka APA 7th
+    ├── lkm11/                              # Modul Generator LKM 11 (Manajemen Risiko Proyek Bagian I)
+    │   ├── generate_lkm11_final.py         # Script utama LKM 11 (Tugas Individu murni)
+    │   ├── lkm11_builder_section_a.py      # Builder Tugas Tertulis (8 Soal Teori Risiko PMBOK)
+    │   ├── lkm11_builder_section_b.py      # Builder Latihan P&I Matrix 5x5 & Risk Register Awal PRE-02
+    │   ├── lkm11_builder_section_c.py      # Builder Refleksi Mandiri (5 Soal)
+    │   └── lkm11_builder_section_d.py      # Builder Daftar Pustaka APA 7th
+    ├── lkm10/                              # Modul Generator LKM 10 (Manajemen Komunikasi Proyek)
+    │   ├── generate_lkm10_final.py         # Script utama LKM 10 (Tugas Individu murni)
+    │   ├── lkm10_builder_section_a.py      # Builder Tugas Tertulis (8 Soal Teori Komunikasi)
+    │   ├── lkm10_builder_section_b.py      # Builder Tugas Latihan Saluran Komunikasi (Skenario n=5, 7, 10)
+    │   ├── lkm10_builder_section_c.py      # Builder Refleksi Mandiri (5 Soal)
+    │   └── lkm10_builder_section_d.py      # Builder Daftar Pustaka APA 7th
+    ├── lkm9/                               # Modul Generator LKM 9 (Manajemen Sumber Daya Proyek)
+    │   ├── generate_lkm9_final.py          # Script utama LKM 9 (Tugas Individu murni)
+    │   ├── lkm9_builder_section_a.py       # Builder Tugas Tertulis (9 Soal Teori Sumber Daya & Konflik)
+    │   ├── lkm9_builder_section_b.py       # Builder Tugas Individu Kasus Konflik (Latensi API vs Ukuran Model)
+    │   ├── lkm9_builder_section_c.py       # Builder Refleksi Mandiri (5 Soal)
+    │   └── lkm9_builder_section_d.py       # Builder Daftar Pustaka APA 7th
+    ├── lkm8/                               # Modul Generator LKM 8 (Manajemen Kualitas)
+    │   ├── generate_lkm8_final.py          # Script utama LKM 8 (Tugas Individu murni)
+    │   ├── lkm8_builder_section_a.py       # Builder Tugas Tertulis (8 Soal Teori Mutu)
+    │   ├── lkm8_builder_section_b.py       # Builder Tugas Ringkasan COQ (Prevention, Appraisal, Failure)
+    │   ├── lkm8_builder_section_c.py       # Builder Praktik Alat Mutu (Fishbone 5M & Pareto Chart 80/20)
+    │   ├── lkm8_builder_section_d.py       # Builder Refleksi Mandiri (5 Soal)
+    │   └── lkm8_builder_section_e.py       # Builder Daftar Pustaka APA 7th
+    ├── lkm7/                               # Modul Generator LKM 7 (Manajemen Biaya & EVM)
+    │   ├── generate_lkm7_final.py          # Script utama LKM 7
+    │   ├── lkm7_builder_section_a.py       # Builder Tugas Tertulis (8 Soal Teori Biaya)
+    │   ├── lkm7_builder_section_b.py       # Builder Latihan EVM (Kasus BAC 100 Juta)
+    │   ├── lkm7_builder_section_c.py       # Builder Refleksi Mandiri (5 Soal)
+    │   └── lkm7_builder_section_d.py       # Builder Daftar Pustaka APA 7th
+    ├── lkm6/                               # Modul Generator LKM 6
+    │   ├── generate_lkm6_final.py          # Script utama LKM 6 (Tugas Individu & Mandiri murni)
+    │   ├── lkm6_builder_section_a.py       # Builder Tugas Tertulis (8 Soal Teori)
+    │   ├── lkm6_builder_section_b.py       # Builder Perbandingan Manual vs Software (Kasus 5 Aktivitas)
+    │   ├── lkm6_builder_section_d.py       # Builder Refleksi Mandiri (5 Soal)
+    │   └── lkm6_builder_section_e.py       # Builder Daftar Pustaka APA 7th
+    ├── lkm5/                               # Modul Generator LKM 5
+    │   ├── generate_lkm5_final.py          # Script utama LKM 5 (Tugas Individu & Mandiri murni)
+    │   ├── generate_pdm_diagram.py         # Generator visual PDM diagram (matplotlib)
+    │   ├── pdm_network_diagram.png         # Gambar PDM Network Diagram resolusi tinggi
+    │   ├── lkm5_builder_section_a.py       # Builder Tugas Tertulis (8 Soal Teori)
+    │   ├── lkm5_builder_section_b.py       # Builder Latihan PDM & Jalur Kritis (Forward/Backward)
+    │   ├── lkm5_builder_section_d.py       # Builder Refleksi Mandiri (5 Soal)
+    │   └── lkm5_builder_section_e.py       # Builder Daftar Pustaka APA 7th
     ├── lkm4/                               # Modul Generator LKM 4
     │   ├── generate_lkm4_final.py          # Script utama LKM 4
     │   ├── lkm4_builder_section_a.py       # Builder Tugas Tertulis (10 Soal + Matriks RTM)
@@ -107,6 +186,8 @@ c:/Users/nailul/Documents/Files_Kuliah_Local/Workspace-MP-PRE-02/
     │   ├── section_a_builder.py            # Builder Tugas Tertulis (8 Soal)
     │   ├── section_c_builder.py            # Builder Ringkasan PMBOK Bab 4.1-4.2
     │   └── section_d_e_builder.py          # Builder Refleksi & Daftar Pustaka
+    ├── lkm1/                               # Modul Generator LKM 1
+    │   └── generate_lkm1_final.py          # Script utama LKM 1 (Tugas Individu, Refleksi, Pustaka)
     └── utils/                              # Alat utilitas pendukung
         └── inspect_docx.py                 # Script pengecekan struktur/paragraf docx
 ```
@@ -176,6 +257,9 @@ Bagi AI Agent yang menyusun tugas LKM berikutnya:
    * Pertanyaan yang meminta contoh riil proyek kelompok, daftar kebutuhan, WBS, jadwal, atau refleksi mandiri **WAJIB dihubungkan secara konsisten dengan proyek PRE-02** (Prediksi Probabilitas Keterlambatan Proyek Berbasis Machine Learning sebagai Early Warning System).
 4. **Daftar Pustaka:**
    * Setiap LKM wajib menyertakan bagian akhir Daftar Pustaka yang disusun rapi menggunakan format **APA 7th Edition** dengan *hanging indent*.
+5. **Aturan Pengerjaan Tugas LKM:**
+   * Setiap dokumen LKM yang dibuat untuk folder `MP_Tugas_Individu/` **HANYA BERISI TUGAS TERTULIS INDIVIDU DAN REFLEKSI MANDIRI** beserta Daftar Pustaka.
+   * **JANGAN** mengerjakan atau memasukkan bagian "Tugas Kelompok (Checkpoint)" dari silabus ke dalam skrip generator LKM, kecuali pengguna memberikan instruksi eksplisit.
 
 ---
 

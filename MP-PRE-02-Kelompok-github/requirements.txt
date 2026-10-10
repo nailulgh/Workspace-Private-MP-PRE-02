@@ -1,0 +1,18 @@
+# ==============================================================================
+# Requirements for PRE-02 Research Pipeline & Presentation Generators
+# Project: Sistem Prediksi Probabilitas Keterlambatan Proyek Berbasis Machine Learning
+# Course: Teori Manajemen Proyek 2026 - UIN Maulana Malik Ibrahim Malang
+# ==============================================================================
+
+# Core Scientific & Data Processing
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+
+# Visualization & Evaluation Charts
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Presentation & Document Automation
+python-pptx>=0.6.21
+python-docx>=1.1.0
